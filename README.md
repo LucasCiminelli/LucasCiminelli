@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @LucasCiminelli
 - 👀 I'm interested in becoming a Full Stack Web Developer.
-- 🌱 I'm currently learning ReactJS and TypeScript.
+- 🌱 I'm currently learning Backend with Node Js and PHP full stack.
 - 💞️ I am looking for my first work experience in the IT world in order to further develop my skills as a programmer.
 - 📫 How to contact me https://www.linkedin.com/in/lucasciminelli/
 
