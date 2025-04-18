@@ -22,4 +22,8 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasciminelli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Let's connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasciminelli/) 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lucasciminelli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
