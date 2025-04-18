@@ -22,5 +22,6 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=lucasciminelli&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Let's connect!:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasciminelli/) 
+[![LinkedIn Logo](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/in/lucasciminelli/)
+
 
