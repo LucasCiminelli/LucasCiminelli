@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasciminelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=lucasciminelli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Let's connect!:
+# 🌐 Let's connect:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />](https://linkedin.com/in/lucasciminelli/)
 
 
