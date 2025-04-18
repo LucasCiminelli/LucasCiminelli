@@ -1,3 +1,5 @@
+
+# 💻 About me:
 - 👋 Hi, I'm @LucasCiminelli
 - 👀 I'm Software Developer.
 - 🌱 I'm currently studying a Technical Degree in Software Development and learning .NET Core and Java.
