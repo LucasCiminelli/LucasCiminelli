@@ -2,7 +2,7 @@
 # ✨ About me:
 - 👋 Hi, I'm @LucasCiminelli
 - 👀 I'm Software Developer.
-- 🌱 I'm currently studying a Technical Degree in Software Development and learning .NET Core and Java.
+- 🌱 I'm currently studying a Bachelor Degree in Software Development and learning .NET Core and Java.
 - ⭐ I am looking for opportunities to improve my skills.
 - 📫 How to contact me: https://www.linkedin.com/in/lucasciminelli/
 
